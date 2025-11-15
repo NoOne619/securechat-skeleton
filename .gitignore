@@ -1,0 +1,12 @@
+# Python
+_pycache_/
+*.pyc
+venv/
+
+# Secrets & Keys
+certs/
+*.key
+*.pem
+
+# OS files
+.DS_Store
